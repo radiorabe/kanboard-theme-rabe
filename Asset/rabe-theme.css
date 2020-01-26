@@ -14,6 +14,10 @@ body {
     font-family: "Roboto", "Helvetica Neue", Arial, sans-serif;
 }
 
+.sidebar-container {
+    background-color: #d8efdb;
+}
+
 .page {
     margin: 0;
 }
